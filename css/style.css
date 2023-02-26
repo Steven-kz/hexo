@@ -1,14 +1,16 @@
 <link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>#footer-wrap {
-    font-weight: bold;
-    /* color: #000; */
+    font-weight: bold!important;
+    color: #000!important;
 }
 
-#footer-wrap a {
-    font-weight: bold;
-    /* color: #000; */
+#footer-wrap {
+    position: relative;
+    padding: 40px 20px;
+    color: #000;
+    text-align: center;
 }
 
-/* 
 #footer {
-    background: 
-} */
+    background: transparent!important;
+}
+
